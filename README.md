@@ -1,6 +1,7 @@
 # CMPE 140 Assignment 7 & 8
 
 CMPE 140 Lab group: Danielle Shen, Donie Ypon, Hamsika Pongubala, Sowmya Bijjala
+
 Code covering assigments 7 & 8.
 
 ## Assignment 7
@@ -8,10 +9,11 @@ In this lab you will extend the initial design of the single-cycle MIPS processo
 and #6) to support more MIPS instructions. You are required to enhance the single-cycle MIPS
 processor’s functionality by extending its instruction set (add, sub, and, or, slt,
 lw, sw, beq, j, addi) to cover the following additional instructions: 
+
 ```
-MULTU, MFHI,
-MFLO, JR, JAL, SLL, SLR.
+MULTU, MFHI, MFLO, JR, JAL, SLL, SLR.
 ```
+
 Your design must be tested via both functional verification and FPGA validation. Schematics
 of the initial MIPS design and the test program for your extended design are given in Attachment
 1 and Attachment 2 respectively. As a reminder, machine code of a test programs should be
