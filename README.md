@@ -4,7 +4,7 @@ CMPE 140 Lab group: Danielle Shen, Donie Ypon, Hamsika Pongubala, Sowmya Bijjala
 
 Code covering assigments 7 & 8.
 
-## Assignment 7: Ehanced Single-cycle MIPS Processor
+## Assignment 7: Enhanced Single-cycle MIPS Processor
 In this lab you will extend the initial design of the single-cycle MIPS processor (from Lab #5
 and #6) to support more MIPS instructions. You are required to enhance the single-cycle MIPS
 processor’s functionality by extending its instruction set (add, sub, and, or, slt,
