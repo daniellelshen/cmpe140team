@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/adder.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/alu.v" \
+"../../../../140Assign7.srcs/sources_1/new/auxdec.v" \
+"../../../../140Assign7.srcs/sources_1/new/controlunit.v" \
+"../../../../140Assign7.srcs/sources_1/new/datapath.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/memory/dmem.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/dreg.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/memory/imem.v" \
+"../../../../140Assign7.srcs/sources_1/new/maindec.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/mips/mips.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/mips/mips_top.v" \
+"../../../../140Assign7.srcs/sources_1/new/multu.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/mux2.v" \
+"../../../../140Assign7.srcs/sources_1/new/mux4.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/regfile.v" \
+"../../../../140Assign7.srcs/sources_1/new/shift.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/signext.v" \
+"../../../../../../Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/testbench/tb_mips_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

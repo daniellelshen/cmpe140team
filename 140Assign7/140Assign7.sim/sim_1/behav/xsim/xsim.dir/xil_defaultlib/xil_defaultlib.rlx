@@ -1,0 +1,23 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/danie/Documents/140Assign7/140Assign7.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/auxdec.v,1604687050,verilog,,C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/controlunit.v,,auxdec,,,,,,,,
+C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/controlunit.v,1604687479,verilog,,C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/datapath.v,,controlunit,,,,,,,,
+C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/datapath.v,1604287256,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/memory/dmem.v,,datapath,,,,,,,,
+C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/maindec.v,1604687433,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/mips/mips.v,,maindec,,,,,,,,
+C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/multu.v,1604283728,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/mux2.v,,multu,,,,,,,,
+C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/mux4.v,1604283898,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/regfile.v,,mux4,,,,,,,,
+C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/shift.v,1604283665,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/signext.v,,shift,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/adder.v,1604003761,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/alu.v,,adder,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/alu.v,1604003761,verilog,,C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/auxdec.v,,alu,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/dreg.v,1604003761,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/memory/imem.v,,dreg,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/mux2.v,1604003762,verilog,,C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/mux4.v,,mux2,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/regfile.v,1604003762,verilog,,C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/shift.v,,regfile,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/signext.v,1604003762,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/testbench/tb_mips_top.v,,signext,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/memory/dmem.v,1604003762,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/datapath/dreg.v,,dmem,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/memory/imem.v,1604003762,verilog,,C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/maindec.v,,imem,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/mips/mips.v,1604687506,verilog,,C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/mips/mips_top.v,,mips,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/mips/mips_top.v,1604687527,verilog,,C:/Users/danie/Documents/140Assign7/140Assign7.srcs/sources_1/new/multu.v,,mips_top,,,,,,,,
+C:/Users/danie/Resilio Sync/2020-2021/CMPE 140/Assignment 7/MIPS_single_cycle_patched/single_cycle_mips_source_initial/testbench/tb_mips_top.v,1604687561,verilog,,,,tb_mips_top,,,,,,,,

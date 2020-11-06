@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Nov  6 10:33:23 2020
+# Process ID: 8160
+# Current directory: C:/Users/danie/Documents/140Assign7/140Assign7.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/danie/Documents/140Assign7/140Assign7.sim/sim_1/behav/xsim/xsim.dir/tb_mips_top_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/danie/Documents/140Assign7/140Assign7.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/danie/Documents/140Assign7/140Assign7.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/danie/Documents/140Assign7/140Assign7.sim/sim_1/behav/xsim/xsim.dir/tb_mips_top_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/Users/danie/Documents/140Assign7/140Assign7.sim/sim_1/behav/xsim/xsim.dir/tb_mips_top_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Fri Nov  6 10:33:25 2020. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2019.1/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Fri Nov  6 10:33:25 2020...
